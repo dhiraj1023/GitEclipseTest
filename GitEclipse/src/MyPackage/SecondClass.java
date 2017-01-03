@@ -9,8 +9,8 @@ public class SecondClass {
     	System.out.println("World!");
     }
 	@Test
-    public void bye(){
-    	System.out.println("Bye Bye");
+    public void goodBye(){
+    	System.out.println("Good Bye");
     	System.out.println("World!");
     }   
 } 
