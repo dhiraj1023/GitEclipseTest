@@ -9,6 +9,6 @@ public class MyClass {
     }
 	@Test
     public void logout(){
-		System.out.println("Bye");
+        System.out.println("Logout");
     }   
 } 
