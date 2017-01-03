@@ -6,5 +6,6 @@ public class SecondClass {
 	@Test
     public void hello(){
     	System.out.println("Hello");
+    	System.out.println("World!");
     }   
 } 
