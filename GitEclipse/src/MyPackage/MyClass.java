@@ -11,5 +11,6 @@ public class MyClass {
     public void logout(){
 		System.out.println("Logout Page");
 		System.out.println("Bye Bye");
+		System.out.println("All");
     }   
 } 
